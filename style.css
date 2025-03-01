@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+h1{
+    text-transform: capitalize;
+}
+#meme{
+    align-items:  center;
+    margin-left :25% ; 
+    width:50%;
+    font-family:'Libre Baskerville' ;
+    text-align: center;
+    color:white ;
+    margin-top:100px;
+}
+#catto{
+    background-color:black;
+    border:solid,white;
+    border-width: 5px;
+    width: 100%;
+}
